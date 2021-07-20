@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  	<classes>
+  		<class name="automtationpractice.AddressesTestcases"></class>
+  		<class name="automtationpractice.AuthenticationTestcases"></class>
+  		<class name="automtationpractice.BestSellersTestcases"></class>
+  		<class name="automtationpractice.ContactTestcases"></class>
+  		<class name="automtationpractice.DressesTestcases"></class>
+  		<class name="automtationpractice.ForgetPasswordTestcases"></class>
+  		<class name="automtationpractice.HomeTestcases"></class>
+  		<class name="automtationpractice.Main"></class>
+  		<class name="automtationpractice.MyWishListTestcases"></class>
+  		<class name="automtationpractice.NewProductTestcases"></class>
+  		<class name="automtationpractice.OrdersTestcases"></class>
+  		<class name="automtationpractice.OurStoresTestcases"></class>
+  		<class name="automtationpractice.PersonalInfo"></class>
+  		<class name="automtationpractice.PricesDropTestcases"></class>
+  		<class name="automtationpractice.ProductPageTestcases"></class>
+  		<class name="automtationpractice.ShoppingSummaryTestcases"></class>
+  		<class name="automtationpractice.SignInTestcases"></class>
+  		<class name="automtationpractice.TShirtsTestcases"></class>
+  		<class name="automtationpractice.WomenTestcases"></class>
+  	</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
